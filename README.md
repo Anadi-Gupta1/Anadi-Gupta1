@@ -26,25 +26,25 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="your-discord-link">
+  <a href="https://discord.com/invite/fMWYHy9UHX">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="your-linkedin-link">
+  <a href="https://www.linkedin.com/in/anadigupta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="your-medium-link">
+  <a href="https://medium.com/@anadigupta55555">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="your-pinterest-link">
+  <a href="https://in.pinterest.com/anadigupta55555/">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
   </a>
-  <a href="your-twitter-link">
+  <a href="https://x.com/AnadiGupta1374">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
-  <a href="your-youtube-link">
+  <a href="https://www.youtube.com/channel/UCNRnrV9QQsWMvI3XwrSfMpA">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-anadigupta55555@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
