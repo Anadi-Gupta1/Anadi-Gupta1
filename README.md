@@ -147,10 +147,7 @@ This section highlights my certifications and achievements.
 ![](https://github-contributor-stats.vercel.app/api?username=Anadi-Gupta1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+
 ## 🐍 Contribution Snake:
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation"/>
 
-
-
-[![](https://visitcount.itsvg.in/api?id=Anadi-Gupta1&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img src="https://github.com/Anadi-Gupta1/Anadi-Gupta1/blob/output/github-snake.svg" alt="Contribution Snake"/>
