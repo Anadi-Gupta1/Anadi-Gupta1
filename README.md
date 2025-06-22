@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/Explore%20My%20Resources-Click%20Here-6f42c1?style=for-the-badge&logo=linktree&logoColor=white&labelColor=2c2c2c&color=00c853" alt="Linktree Badge" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);">
   </a>
 </div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e72df1a-eb2a-425d-812f-098d2b6138b6" alt="Anadi Gupta Banner" />
+</p>
 
 
 <!-- Typing animation -->
