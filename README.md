@@ -26,12 +26,38 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
-# 🌌 Highlights — Space, Security & Top Achievements
-- 🚀 **NASA Citizen Scientist** & active **Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.  
-- 🛰️ **NASA Certified (2x)** · **ISRO Certified (2x)** — recognition for space & research-relevant skills.  
-- 🏅 Multiple top-tier certifications across industry leaders (Microsoft, Deloitte, Goldman Sachs, Accenture, Flipkart, Nestlé, GitHub Foundations, Coursera).  
-- 🔭 Leading **CodeForce** — a student tech collective & agency focused on building scalable software solutions and mentoring developers.  
+## 🌌 Highlights — Space, Security & Top Achievements
+
+- 🚀 **NASA Citizen Scientist & Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.
+- 🛰️ **NASA Certified (2x) · ISRO Certified (2x)** — recognition for space & research-relevant skills.
+- 🏅 **Multiple top-tier certifications** across industry leaders (Microsoft, Deloitte, Goldman Sachs, Accenture, Flipkart, Nestlé, GitHub Foundations, Coursera).
+- 🔭 **Leading CodeForce** — a student tech collective & agency focused on building scalable software solutions and mentoring developers.
 - 💼 **Software Developer | Full-Stack | Freelance Solutions Architect** — building real-world products and secure systems.
+
+---
+
+### Top Space Technology Certifications 
+
+<table>
+  <tr>
+    <td align="center"><b>AI/ML for Geodata Analysis</b><br><img src="https://github.com/user-attachments/assets/bd94b186-b9fc-4f27-9ead-89fafd89ff61" width="220"></td>
+    <td align="center"><b>Space Technology Workshop</b><br><img src="https://github.com/user-attachments/assets/b55dd670-92ca-48fc-890e-4d21031b5ebc" width="220"></td>
+    <td align="center"><b>NASA DART Planetary Defender</b><br><img src="https://github.com/user-attachments/assets/cd655994-1459-433d-b2c9-a56e2269b6c2" width="220"></td>
+    <td align="center"><b>NASA Open Science 101</b><br><img src="https://github.com/user-attachments/assets/03abf004-58f7-48b1-9435-9b9c9eb3b6a2" width="220"></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+Visual Highlights 
+
+<table>
+  <tr>
+    <td align="center"><b>NASA Badge</b><br><img src="https://github.com/user-attachments/assets/d09902a8-bf98-4c35-bb5f-f3d88d586b30" width="400"></td>
+    <td align="center"><b>Top Space Certifications</b><br><img src="https://github.com/user-attachments/assets/bbcf7f1c-9a93-41a1-8e9d-3fb7333d6273" width="400"></td>
+    <td align="center"><b>NASA Roles</b><br><img src="https://github.com/user-attachments/assets/b05838a5-36db-44a9-b783-da9f02083f5e" width="500"></td>
+  </tr>
+</table>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
