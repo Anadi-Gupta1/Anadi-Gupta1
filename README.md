@@ -13,7 +13,7 @@
 
 
 <!-- Typing animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Campus+Ambassador+at+Techfest+IIT+Bombay;Campus+Ambassador+at+Mood+Indigo🚀Campus+Ambassador+at+GirlScript+Summer+of+Code;+🎓+Campus+Ambassador+at+Internshala;+E-Cell+Member+at+LNCTS;💻+Freelancer;🌟+Indigo+Squad+Member+at+IIT+Bombay;🛠+GSSoC+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Campus+Ambassador+at+Techfest+IIT+Bombay;Campus+Ambassador+at+Mood+Indigo;🚀Campus+Ambassador+at+GirlScript+Summer+of+Code;+🎓+Campus+Ambassador+at+Internshala;+E-Cell+Member+at+LNCTS;💻+Freelancer;🌟+Indigo+Squad+Member+at+IIT+Bombay;🛠+GSSoC+Contributor)](https://git.io/typing-svg)
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
@@ -21,12 +21,74 @@
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Animated Banner" width="65%"/>
 </p>
 
-# 💫 About Me:
-🚀 I’m Anadi Gupta, B.Tech CSE ’28 at **LNCT Bhopal**, serving as a **Tech Member at E-Cell LNCTS BHOPAL** 🎓 and a **Creative Web Developer & Freelancer** 💼.  
-🎉 I'm also an **Indigo Squad Member** at *Mood Indigo, IIT Bombay*, enjoying ambassador perks like certified courses and internship opportunities 🌟.  
-🤖 My passion for **Artificial Intelligence** led me to build a personal AI assistant and dive deep into **machine learning** and **deep learning** 🧠.  
-💻 I’ve contributed to **open-source** through **GirlScript Summer of Code (GSSoC)**, collaborating on real-world projects and sharpening my coding and teamwork skills 🛠️.  
-🌱 Programs like GSSoC offer beginners a chance to immerse in open-source communities and grow together.  
+# 👋 Hi, I'm **Anadi Gupta**
+
+**Software Developer | Freelance Solutions Architect | NASA VDP Security Researcher & NASA Citizen Scientist**  
+**NASA & ISRO Certified (2x each)** | **B.Tech CSE, LNCT Bhopal (’28)**
+
+---
+
+# 🌌 Highlights — Space, Security & Top Achievements
+- 🚀 **NASA Citizen Scientist** & active **Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.  
+- 🛰️ **NASA Certified (2x)** · **ISRO Certified (2x)** — recognition for space & research-relevant skills.  
+- 🏅 Multiple top-tier certifications across industry leaders (Microsoft, Deloitte, Goldman Sachs, Accenture, Flipkart, Nestlé, GitHub Foundations, Coursera).  
+- 🔭 Leading **CodeForce** — a student tech collective & agency focused on building scalable software solutions and mentoring developers.  
+- 💼 **Software Developer | Full-Stack | Freelance Solutions Architect** — building real-world products and secure systems.
+
+---
+
+# 💫 About Me
+🚀 I’m **Anadi Gupta**, B.Tech CSE ’28 at **LNCT Bhopal**. I serve as a **Tech Member at E-Cell LNCTS BHOPAL** and work as a **Creative Web Developer & Freelancer**.  
+🎉 **Indigo Squad Member** at *Mood Indigo, IIT Bombay*, enjoying ambassador perks, certified courses, and internship opportunities.  
+🤖 Passionate about **Artificial Intelligence** — built a personal AI assistant and actively learning ML & Deep Learning.  
+💻 Contributed to **open-source** via **GirlScript Summer of Code (GSSoC)** and other community projects.  
+🌱 I believe in mentoring beginners — programs like GSSoC helped me grow and I pay it forward.
+
+---
+
+# 🏆 Certifications & Recognition
+- **NASA (2x)** · **ISRO (2x)**  
+- **Microsoft (2x)** · **GitHub Foundations**  
+- **Deloitte**, **Goldman Sachs**, **Accenture**, **Flipkart**, **Nestlé**  
+- **Coursera (20+ certificates)** · **Ethical Hacking**
+
+---
+
+# 🚀 Startups & Entrepreneurship
+- **Trendy** — My startup (Founder) — building scalable consumer/tech products.  
+- **Vexarant** — Productivity & tech solutions (co-founder / contributor).  
+- **Ridezy** — Mobility solutions (worked on product/dev).  
+- **GearSwap** — E-commerce for gear (product / strategy).  
+- **Bizz** — Business/product initiatives.
+
+---
+
+# 🧠 Hackathons & Competitions
+1. **MSME Hackathon** — Selected & advanced to Round 2 ✅  
+2. **Yukti Hackathon** — College nomination 🎯  
+3. **National Road Safety Hackathon**  
+4. **LN Universe Hackathon**  
+5. **Google Solution Challenge**
+
+---
+
+# 💼 Professional Experience & Internships
+- **Development Internships**: Vexarant · ISA · Helpy Moto  
+- **Crowdfunding & Strategy**: GreenBhumi · Bharat Intern · PeerShala
+
+---
+
+# 📢 Campus Roles & Community
+- Campus Ambassador & outreach roles: **Techfest IIT Bombay**, **GSSoC**, **PeerHub**, **Internshala**  
+- **IndiGo Squad Member** @ IIT Bombay — ambassador programs & student outreach  
+- Active member: **E-Cell**, **Google Developer Group (GDG)**, **ISA**, **InnovateX**  
+- Currently participating in **NEC @ IIT Bombay**
+
+---
+
+# 💡 What I’m Building
+- **CodeForce** — Leading this student agency & tech collective to empower young developers to build, contribute, and launch scalable software.  
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
