@@ -47,10 +47,10 @@
 - Accenture — Certificate  
 - Flipkart — Certificate  
 - Nestlé — Certificate  
-- Coursera — 20+ Certificates  
-- Ethical Hacking — Certificat
+- Coursera — 20x Certificates  
+- Ethical Hacking — Certificate
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+
 
 # 🚀 Startups & Entrepreneurship
 - **Trendy** — My startup (Co-Founder) — building scalable consumer/tech products.  
@@ -58,7 +58,6 @@
 - **Ridezy** — Mobility solutions (worked on product/dev).  
 - **GearSwap** — E-commerce for gear (product / strategy).  
 - **Bizz** — Business/product initiatives.
-
 
 
 # 🧠 Hackathons & Competitions
@@ -119,6 +118,7 @@
 ## 💻 Tech Stack:
 
 <!-- Language & Frontend -->
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -173,19 +173,8 @@
 ![Spline](https://img.shields.io/badge/Spline-00C4CC?style=for-the-badge&logo=spline&logoColor=white)
 ![Meshy](https://img.shields.io/badge/Meshy-1E1E1E?style=for-the-badge&logoColor=white)
 ![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-4B0082?style=for-the-badge&logoColor=white)
-![Boltz](https://img.shields.io/badge/Boltz-FFD700?style=for-the-badge&logoColor=black)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-
-### 🌟 Roles & Involvements
-
-![E-Cell](https://img.shields.io/badge/E--Cell-LNCTS-blueviolet?style=for-the-badge)
-![Freelancer](https://img.shields.io/badge/Freelancer-Open%20to%20Work-blue?style=for-the-badge)
-![Campus Ambassador](https://img.shields.io/badge/Internshala-Ambassador-0A66C2?style=for-the-badge)
-![Indigo Squad](https://img.shields.io/badge/IIT%20Bombay-Indigo%20Squad-003366?style=for-the-badge)
-![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-yellow?style=for-the-badge)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anadi-Gupta1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
