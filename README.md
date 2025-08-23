@@ -179,11 +179,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anadi-Gupta1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Anadi-Gupta1&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=dark&hide_border=false&layout=compact&langs_count=30&count_private=true)  
-![](https://github-profile-trophy.vercel.app/?username=Anadi-Gupta1&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)  
-![](https://github-readme-activity-graph.vercel.app/graph?username=Anadi-Gupta1&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anadi-Gupta1&theme=react&hide_border=false&include_all_commits=true&count_private=true" /><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anadi-Gupta1&theme=react&hide_border=false" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=react&hide_border=false&layout=compact&langs_count=30&count_private=true" />
+</p>
+
 
 
 ## 📈 Contribution Graph
