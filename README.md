@@ -178,22 +178,22 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anadi-Gupta1&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="180" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Anadi-Gupta1&theme=react&hide_border=false" height="180" />
-  
-<h1>align="center">📊 GitHub & LeetCode Stats</h1>
+</p>
 
+## 📊 GitHub & LeetCode Stats
+
+<p align="center">
   <!-- GitHub Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=react&hide_border=false&layout=compact&langs_count=30&count_private=true" height="200"/>
   
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/Anadi-Gupta?theme=dark&font=Karma&ext=heatmap" height="200"/>
 </p>
-
-
 
 
 
