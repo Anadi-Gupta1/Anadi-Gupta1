@@ -185,8 +185,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Anadi-Gupta1&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anadi-Gupta1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
