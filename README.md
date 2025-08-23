@@ -182,9 +182,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anadi-Gupta1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Anadi-Gupta1&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=dark&hide_border=false&layout=compact&langs_count=30&count_private=true)  
+![](https://github-profile-trophy.vercel.app/?username=Anadi-Gupta1&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-readme-activity-graph.vercel.app/graph?username=Anadi-Gupta1&theme=react-dark&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anadi-Gupta1&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Contribution Graph
 [![Anadi’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anadi-Gupta1&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
