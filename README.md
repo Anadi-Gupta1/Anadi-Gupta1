@@ -180,13 +180,12 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Anadi-Gupta1&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="180" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Anadi-Gupta1&theme=react&hide_border=false" height="180" />
   
 <h1>align="center">📊 GitHub & LeetCode Stats</h1>
 
-<p align="center">
   <!-- GitHub Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=react&hide_border=false&layout=compact&langs_count=30&count_private=true" height="200"/>
   
