@@ -1,6 +1,4 @@
 <h1 align="center">🌟Anadi Gupta — Empowering the Future through AI & Innovation </h1>
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 <div align="center">
   <a href="https://linktr.ee/anadigupta" target="_blank">
