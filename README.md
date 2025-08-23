@@ -26,7 +26,7 @@
 **Software Developer | Freelance Solutions Architect | NASA VDP Security Researcher & NASA Citizen Scientist**  
 **NASA & ISRO Certified (2x each)** | **B.Tech CSE, LNCT Bhopal (’28)**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+
 
 # 🌌 Highlights — Space, Security & Top Achievements
 - 🚀 **NASA Citizen Scientist** & active **Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.  
@@ -35,24 +35,31 @@
 - 🔭 Leading **CodeForce** — a student tech collective & agency focused on building scalable software solutions and mentoring developers.  
 - 💼 **Software Developer | Full-Stack | Freelance Solutions Architect** — building real-world products and secure systems.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+
 
 # 🏆 Certifications & Recognition
-- **NASA (2x)** · **ISRO (2x)**  
-- **Microsoft (2x)** · **GitHub Foundations**  
-- **Deloitte**, **Goldman Sachs**, **Accenture**, **Flipkart**, **Nestlé**  
-- **Coursera (20+ certificates)** · **Ethical Hacking**
+- GitHub Foundations Certified  
+- NASA Certified (2x)  
+- ISRO Certified (2x)  
+- Microsoft Certified (2x)  
+- Deloitte — Certificate  
+- Goldman Sachs — Certificate  
+- Accenture — Certificate  
+- Flipkart — Certificate  
+- Nestlé — Certificate  
+- Coursera — 20+ Certificates  
+- Ethical Hacking — Certificat
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🚀 Startups & Entrepreneurship
 - **Trendy** — My startup (Co-Founder) — building scalable consumer/tech products.  
-- **Vexarant** — Productivity & tech solutions (co-founder / contributor).  
+- **Vexarant** — Productivity & tech solutions (Tech Lead ).  
 - **Ridezy** — Mobility solutions (worked on product/dev).  
 - **GearSwap** — E-commerce for gear (product / strategy).  
 - **Bizz** — Business/product initiatives.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+
 
 # 🧠 Hackathons & Competitions
 1. **MSME Hackathon** — Selected & advanced to Round 2 ✅  
@@ -61,21 +68,18 @@
 4. **LN Universe Hackathon**  
 5. **Google Solution Challenge**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+
 
 # 💼 Professional Experience & Internships
 - **Development Internships**: Vexarant · ISA · Helpy Moto  
 - **Crowdfunding & Strategy**: GreenBhumi · Bharat Intern · PeerShala
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 📢 Campus Roles & Community
 - Campus Ambassador & outreach roles: **Techfest IIT Bombay**, **GSSoC**, **PeerHub**, **Internshala**  
 - **IndiGo Squad Member** @ IIT Bombay — ambassador programs & student outreach  
 - Active member: **E-Cell**, **Google Developer Group (GDG)**, **ISA**, **InnovateX**  
 - Currently participating in **NEC @ IIT Bombay**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 💡 What I’m Building
 - **CodeForce** — Leading this student agency & tech collective to empower young developers to build, contribute, and launch scalable software.  
@@ -175,21 +179,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
-## Certifications
-
-This section highlights my certifications and achievements.
-
--   **GitHub Foundations Certified**
-    [![GitHub Foundations Certified](https://img.shields.io/badge/GitHub%20Foundations-Certified-blue?style=for-the-badge&logo=github)](https://www.credly.com/badges/447e3da4-a5bb-4886-8beb-8d87d8946f04/print)
- 
--   **ISRO Certified 2x- AI/ML for Geodata Analysis**
- [![ISRO - AI/ML for Geodata Analysis](https://img.shields.io/badge/ISRO%20-%20AI/ML%20for%20Geodata%20Analysis-orange?style=for-the-badge)](https://isrolms.iirs.gov.in/mod/customcert/verify_certificate.php?contextid=1049408)
-
--   **Microsoft - Career Essentials in Generative AI**
-   [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Completed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/learning/certificates/765617eb1f148b558a25eed8bf7bdd62532ccede88a46f0b3a1e250169b0e942?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2B%2BaC%2BrD9SMWPaVp9XFErAw%3D%3D)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-  
 ### 🌟 Roles & Involvements
 
 ![E-Cell](https://img.shields.io/badge/E--Cell-LNCTS-blueviolet?style=for-the-badge)
