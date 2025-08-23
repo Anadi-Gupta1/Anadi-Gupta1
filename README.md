@@ -26,7 +26,7 @@
 **Software Developer | Freelance Solutions Architect | NASA VDP Security Researcher & NASA Citizen Scientist**  
 **NASA & ISRO Certified (2x each)** | **B.Tech CSE, LNCT Bhopal (’28)**
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🌌 Highlights — Space, Security & Top Achievements
 - 🚀 **NASA Citizen Scientist** & active **Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.  
@@ -35,7 +35,7 @@
 - 🔭 Leading **CodeForce** — a student tech collective & agency focused on building scalable software solutions and mentoring developers.  
 - 💼 **Software Developer | Full-Stack | Freelance Solutions Architect** — building real-world products and secure systems.
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🏆 Certifications & Recognition
 - GitHub Foundations Certified  
@@ -50,7 +50,7 @@
 - Coursera — 20x Certificates  
 - Ethical Hacking — Certificate
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🚀 Startups & Entrepreneurship
 - **Trendy** — My startup (Co-Founder) — building scalable consumer/tech products.  
@@ -59,6 +59,7 @@
 - **GearSwap** — E-commerce for gear (product / strategy).  
 - **Bizz** — Business/product initiatives.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🧠 Hackathons & Competitions
 1. **MSME Hackathon** — Selected & advanced to Round 2 ✅  
@@ -67,18 +68,21 @@
 4. **LN Universe Hackathon**  
 5. **Google Solution Challenge**
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 💼 Professional Experience & Internships
 - **Development Internships**: Vexarant · ISA · Helpy Moto  
 - **Crowdfunding & Strategy**: GreenBhumi · Bharat Intern · PeerShala
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 📢 Campus Roles & Community
 - Campus Ambassador & outreach roles: **Techfest IIT Bombay**, **GSSoC**, **PeerHub**, **Internshala**  
 - **IndiGo Squad Member** @ IIT Bombay — ambassador programs & student outreach  
 - Active member: **E-Cell**, **Google Developer Group (GDG)**, **ISA**, **InnovateX**  
 - Currently participating in **NEC @ IIT Bombay**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 💡 What I’m Building
 - **CodeForce** — Leading this student agency & tech collective to empower young developers to build, contribute, and launch scalable software.  
