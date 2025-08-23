@@ -26,7 +26,7 @@
 **Software Developer | Freelance Solutions Architect | NASA VDP Security Researcher & NASA Citizen Scientist**  
 **NASA & ISRO Certified (2x each)** | **B.Tech CSE, LNCT Bhopal (’28)**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🌌 Highlights — Space, Security & Top Achievements
 - 🚀 **NASA Citizen Scientist** & active **Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.  
@@ -35,16 +35,7 @@
 - 🔭 Leading **CodeForce** — a student tech collective & agency focused on building scalable software solutions and mentoring developers.  
 - 💼 **Software Developer | Full-Stack | Freelance Solutions Architect** — building real-world products and secure systems.
 
----
-
-# 💫 About Me
-🚀 I’m **Anadi Gupta**, B.Tech CSE ’28 at **LNCT Bhopal**. I serve as a **Tech Member at E-Cell LNCTS BHOPAL** and work as a **Creative Web Developer & Freelancer**.  
-🎉 **Indigo Squad Member** at *Mood Indigo, IIT Bombay*, enjoying ambassador perks, certified courses, and internship opportunities.  
-🤖 Passionate about **Artificial Intelligence** — built a personal AI assistant and actively learning ML & Deep Learning.  
-💻 Contributed to **open-source** via **GirlScript Summer of Code (GSSoC)** and other community projects.  
-🌱 I believe in mentoring beginners — programs like GSSoC helped me grow and I pay it forward.
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🏆 Certifications & Recognition
 - **NASA (2x)** · **ISRO (2x)**  
@@ -52,16 +43,16 @@
 - **Deloitte**, **Goldman Sachs**, **Accenture**, **Flipkart**, **Nestlé**  
 - **Coursera (20+ certificates)** · **Ethical Hacking**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🚀 Startups & Entrepreneurship
-- **Trendy** — My startup (Founder) — building scalable consumer/tech products.  
+- **Trendy** — My startup (Co-Founder) — building scalable consumer/tech products.  
 - **Vexarant** — Productivity & tech solutions (co-founder / contributor).  
 - **Ridezy** — Mobility solutions (worked on product/dev).  
 - **GearSwap** — E-commerce for gear (product / strategy).  
 - **Bizz** — Business/product initiatives.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🧠 Hackathons & Competitions
 1. **MSME Hackathon** — Selected & advanced to Round 2 ✅  
@@ -70,13 +61,13 @@
 4. **LN Universe Hackathon**  
 5. **Google Solution Challenge**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 💼 Professional Experience & Internships
 - **Development Internships**: Vexarant · ISA · Helpy Moto  
 - **Crowdfunding & Strategy**: GreenBhumi · Bharat Intern · PeerShala
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 📢 Campus Roles & Community
 - Campus Ambassador & outreach roles: **Techfest IIT Bombay**, **GSSoC**, **PeerHub**, **Internshala**  
@@ -84,7 +75,7 @@
 - Active member: **E-Cell**, **Google Developer Group (GDG)**, **ISA**, **InnovateX**  
 - Currently participating in **NEC @ IIT Bombay**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 💡 What I’m Building
 - **CodeForce** — Leading this student agency & tech collective to empower young developers to build, contribute, and launch scalable software.  
