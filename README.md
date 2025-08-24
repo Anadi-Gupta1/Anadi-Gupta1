@@ -27,6 +27,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 ## 🌌 Highlights — Space, Security & Top Achievements
+## [![Space Portfolio](https://img.shields.io/badge/Visit_Space_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://anadi-space-portfolio.netlify.app/)  
 
 - 🚀 **NASA Citizen Scientist & Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.
 - 🛰️ **NASA Certified (2x) · ISRO Certified (2x)** — recognition for space & research-relevant skills.
