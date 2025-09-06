@@ -109,31 +109,44 @@ Visual Highlights
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://discord.com/invite/fMWYHy9UHX">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <!-- Skillicons supported -->
+  <a href="https://discord.com/invite/fMWYHy9UHX" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="50" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/anadigupta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/anadigupta/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@anadigupta55555">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="https://x.com/AnadiGupta1374" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter/X" />
   </a>
-  <a href="https://in.pinterest.com/anadigupta55555/">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
-  </a>
-  <a href="https://x.com/AnadiGupta1374">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCNRnrV9QQsWMvI3XwrSfMpA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="anadigupta55555@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  
+  <a href="mailto:anadigupta55555@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
   </a>
 </p>
+
+<p align="center">
+  <!-- Shields.io for missing icons -->
+  <a href="https://medium.com/@anadigupta55555" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://in.pinterest.com/anadigupta55555/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/anadiskt" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Anadi-Gupta/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/anadigup5vq7/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
