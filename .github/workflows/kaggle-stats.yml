@@ -1,0 +1,38 @@
+name: Update Kaggle Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-kaggle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Kaggle API
+        run: pip install kaggle matplotlib
+
+      - name: Create Kaggle config
+        run: |
+          mkdir -p ~/.kaggle
+          echo '{"username":"anadiskt","key":"b485f80ad71307a1d0e2447573005104"}' > ~/.kaggle/kaggle.json
+          chmod 600 ~/.kaggle/kaggle.json
+
+      - name: Generate Kaggle Activity Card
+        run: python scripts/kaggle_card.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md kaggle.png
+          git commit -m "Update Kaggle stats" || exit 0
+          git push
