@@ -1,14 +1,1 @@
-﻿{
-  "name": "kaggle-stats-api",
-  "version": "1.0.0",
-  "description": "Dynamic Kaggle stats card API for GitHub README",
-  "main": "api/kaggle.js",
-  "scripts": {
-    "dev": "node api/kaggle.js",
-    "start": "node api/kaggle.js"
-  },
-  "engines": {
-    "node": ">=18"
-  },
-  "keywords": ["kaggle", "stats", "api", "vercel", "github", "readme"]
-}
+{"name":"kaggle-stats-api","version":"1.0.0","description":"Dynamic Kaggle stats card API","main":"api/kaggle.js","engines":{"node":">=18"}}
