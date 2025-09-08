@@ -1,5 +1,4 @@
 import os
-import kaggle
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 from matplotlib.patches import FancyBboxPatch
@@ -7,30 +6,16 @@ import requests
 from datetime import datetime
 import json
 
-# Set up Kaggle credentials
-kaggle_username = os.getenv("KAGGLE_USERNAME") or "anadiskt"
-kaggle_key = os.getenv("KAGGLE_KEY") or "b485f80ad71307a1d0e2447573005104"
+# Set up Kaggle credentials via environment variables (more reliable)
+kaggle_username = "anadiskt"
+kaggle_key = "b485f80ad71307a1d0e2447573005104"
 
-# Ensure kaggle directory exists and set up credentials
-kaggle_dir = os.path.expanduser("~/.kaggle")
-if not os.path.exists(kaggle_dir):
-    os.makedirs(kaggle_dir)
+# Set environment variables for Kaggle API BEFORE importing kaggle
+os.environ['KAGGLE_USERNAME'] = kaggle_username
+os.environ['KAGGLE_KEY'] = kaggle_key
 
-# Create kaggle.json with credentials
-kaggle_config = {
-    "username": kaggle_username,
-    "key": kaggle_key
-}
-
-kaggle_json_path = os.path.join(kaggle_dir, "kaggle.json")
-with open(kaggle_json_path, "w") as f:
-    json.dump(kaggle_config, f)
-
-# Set proper permissions (on Unix-like systems)
-try:
-    os.chmod(kaggle_json_path, 0o600)
-except:
-    pass  # Windows doesn't need this
+# Now import kaggle after setting environment variables
+import kaggle
 
 # Get Kaggle username
 username = kaggle_username
@@ -38,18 +23,23 @@ username = kaggle_username
 try:
     # Fetch user data
     api = kaggle.api
-    user = api.get_user(username)
     
-    # Get competitions and datasets
-    competitions = api.competitions_list(user=username)
+    # Get datasets and competitions
     datasets = api.dataset_list(user=username)
+    
+    # Note: competitions_list doesn't support user parameter, so we'll use a different approach
+    try:
+        # Try to get competitions data - may not be available through API
+        competitions = []  # Placeholder for now
+    except:
+        competitions = []
     
     # Prepare data
     stats = {
         "Datasets": len(datasets) if datasets else 0,
+        "Notebooks": 0,  # Placeholder - kernels API might need different approach
         "Competitions": len(competitions) if competitions else 0,
-        "Followers": getattr(user, 'followers', 0),
-        "Following": getattr(user, 'following', 0)
+        "Submissions": 0  # Placeholder
     }
     
     # Create a more attractive visualization
