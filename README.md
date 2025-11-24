@@ -19,6 +19,9 @@
 **🛡️ NASA VDP Security Researcher | 👨‍🚀 NASA Citizen Scientist | 🛰️ NASA & ISRO Certified | 🎓 B.Tech CSE, LNCT**
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
+
+## 🎯 Key Achievements
+
 ## 🌌 Highlights — Space, Security & Top Achievements
 ## [![Space Portfolio](https://img.shields.io/badge/Visit_Space_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://anadi-space-portfolio.netlify.app/)  
 
@@ -55,6 +58,54 @@ Visual Highlights
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
+
+
+# 🚀 Startups & Entrepreneurship
+
+### 🚀 **TRENDY — Selected for the IIT Bombay Startup Expo (21st E-Summit)**
+<div align="left">
+
+🎉 My startup **TRᴇɴᴅʏ** has been selected to **exhibit at the Startup Expo**  
+during IIT Bombay’s prestigious **21st E-Summit** — a national platform for top emerging startups!
+
+💡 **Why this is big:**  
+- Only a limited number of startups get selected to exhibit  
+- TRᴇɴᴅʏ will be showcased in front of **investors, incubators, corporates, VCs, and startup enthusiasts**  
+- We are officially representing **LNCT** at **IIT Bombay**
+
+🔥 TRᴇɴᴅʏ is now a **national-level recognized startup** with IIT Bombay backing.
+</div>
+
+---
+
+### 🏆 **NEC 2025 — FINALIST at IIT Bombay**
+<div align="left">
+
+✨ Our team has officially **qualified for the Final Round** of the  
+**National Entrepreneurship Challenge (NEC) 2025**, organized by **E-Cell, IIT Bombay**!  
+This year, **4000+ colleges** participated — and our team stood out among the best in India.  
+
+📍 **Event:** 21st Edition of E-Summit  
+📅 **Finals Date:** 10th–12th December 2025  
+🎓 **Representing:** LNCTS  
+🔥 **Level:** National Inter-Collegiate Premier Entrepreneurship Challenge
+
+> This is one of the **largest entrepreneurship competitions in India**,  
+> and being selected for the **Grand Finale at IIT Bombay** is a huge honour.
+</div>
+
+---
+## 🚀 MSME Hackathon 5.0 Achievement
+
+I am excited to share that our idea has been **selected for the NEXT Stage of MSME Hackathon 5.0**, evaluated at KLIC – LNCT Group Incubation Center. This recognition opens the door to **funding support of up to ₹15 Lakhs** for promising and innovative startup solutions. ✨  
+A proud milestone for our team as we continue building impactful, scalable ideas. 🌟
+  
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
+
+
 # 🏆 Certifications & Recognition
 - GitHub Foundations Certified  
 - NASA Certified (2x)  
@@ -70,17 +121,10 @@ Visual Highlights
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
-# 🚀 Startups & Entrepreneurship
-- **Trendy** — My startup (Co-Founder) — building scalable consumer/tech products.  
-- **Vexarant** — Productivity & tech solutions (Tech Lead ).  
-- **Ridezy** — Mobility solutions (worked on product/dev).  
-- **GearSwap** — E-commerce for gear (product / strategy).  
-- **Bizz** — Business/product initiatives.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 🧠 Hackathons & Competitions
-1. **MSME Hackathon** — Selected & advanced to Round 2 ✅  
+1. - **Semi-finalist — Smart India Hackathon (SIH)**  
+  Reached the semi-final stage in SIH for our submitted project/solution.
 2. **Yukti Hackathon** — College nomination 🎯  
 3. **National Road Safety Hackathon**  
 4. **LN Universe Hackathon**  
@@ -95,6 +139,8 @@ Visual Highlights
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 # 📢 Campus Roles & Community
+- **Technical Lead — E-Cell, LNCTS**  
+  Serving as Technical Lead for E-Cell LNCTS, leading technical initiatives and product/website development.
 - Campus Ambassador & outreach roles: **Techfest IIT Bombay**, **GSSoC**, **PeerHub**, **Internshala**  
 - **IndiGo Squad Member** @ IIT Bombay — ambassador programs & student outreach  
 - Active member: **E-Cell**, **Google Developer Group (GDG)**, **ISA**, **InnovateX**  
