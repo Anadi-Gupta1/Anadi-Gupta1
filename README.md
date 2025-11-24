@@ -20,8 +20,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 
-## 🎯 Key Achievements
-
 ## 🌌 Highlights — Space, Security & Top Achievements
 ## [![Space Portfolio](https://img.shields.io/badge/Visit_Space_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://anadi-space-portfolio.netlify.app/)  
 
