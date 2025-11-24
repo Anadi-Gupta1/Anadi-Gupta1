@@ -15,9 +15,8 @@
 
 # 👋 Hi, I'm **Anadi Gupta**
 
-**Software Developer | Freelance Solutions Architect | NASA VDP Security Researcher & NASA Citizen Scientist**  
-**NASA & ISRO Certified (2x each)** | **B.Tech CSE, LNCT Bhopal (’28)**
-
+**💻 Software Developer | 🧩 Solutions Architect (Freelance) | 🚀 Cofounder – TRENDY |**
+**🛡️ NASA VDP Security Researcher | 👨‍🚀 NASA Citizen Scientist | 🛰️ NASA & ISRO Certified | 🎓 B.Tech CSE, LNCT**
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 ## 🌌 Highlights — Space, Security & Top Achievements
