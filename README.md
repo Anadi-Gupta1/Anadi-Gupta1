@@ -59,6 +59,15 @@ Visual Highlights
 
 
 # 🚀 Startups & Entrepreneurship
+## 🚀 IIT Bombay Incubation Summit 2025 — TRENDY Shortlisted
+
+**TRENDY has been officially shortlisted for the Incubation Summit 2025 at IIT Bombay**, scheduled for **11th December 2025**.
+
+This selection provides an opportunity to pitch TRENDY in front of **India’s leading incubators and innovation ecosystems**, including **T-Hub, iCreate, NSRCEL, SINE IIT Bombay, AIC-RMP, VentureStudio**, and others.
+
+**This milestone validates TRENDY’s mission in AI, automation, and next-gen product innovation.**
+
+---
 
 ### 🚀 **TRENDY — Selected for the IIT Bombay Startup Expo (21st E-Summit)**
 <div align="left">
