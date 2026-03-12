@@ -95,8 +95,17 @@ A proud milestone for our team as we continue building impactful, scalable ideas
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
+### 🚀 Kaggle Achievement
+
+<img src="https://github.com/user-attachments/assets/eef63418-11c6-46fd-bb04-6d15c1f7ebdc" width="430" alt="Kaggle Rank Achievement"/>
+
+🌍 **Ranked #634 Worldwide on Kaggle**  
+🏆 **Kaggle Notebooks Expert** • 🥇 **5 Medals**
+
+<a href="https://www.kaggle.com/anadiskt">
+<img src="https://img.shields.io/badge/View%20My%20Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
 # 💼 Professional Experience & Internships
 - **Development Internships**: Vexarant · ISA · Helpy Moto  
