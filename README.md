@@ -91,9 +91,17 @@ This year, **4000+ colleges** participated — and our team stood out among the 
 I am excited to share that our idea has been **selected for the NEXT Stage of MSME Hackathon 5.0**, evaluated at KLIC – LNCT Group Incubation Center. This recognition opens the door to **funding support of up to ₹15 Lakhs** for promising and innovative startup solutions. ✨  
 A proud milestone for our team as we continue building impactful, scalable ideas. 🌟
   
+---
+## 🏆 Achievement
 
+🚀 As the **Founder of QUBES**, I secured **🥈 1st Runner Up** at the **Innovation League (Innomaker: Product Showcase)** during **Navonmesh 2026**, organized by **Scope Global Skills University** in association with **AIC RNTU Foundation**.
 
+🔹 Presented the **QUBES startup** to industry experts and judges  
+🔹 Awarded **₹10,000 prize** for innovation and startup potential  
+🔹 Recognized at **Navonmesh 2026 — Central India’s Biggest Innovation Carnival**
 
+✨ This milestone reflects the vision of building **secure and future-ready technology through QUBES**.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
 
 ### 🚀 Kaggle Achievement
