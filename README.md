@@ -112,7 +112,7 @@ A proud milestone for our team as we continue building impactful, scalable ideas
 </p>
 
 
-📊 Datasets Expert → 🌎 **#185 / 8,733 Worldwide**  
+📊 Datasets Expert → 🌎 **#75 / 8,733 Worldwide**  
 📓 Notebooks Expert → 🌎 **#642 / 60,130 Worldwide** *(Peak: #621)*
 
 <a href="https://www.kaggle.com/anadiskt">
