@@ -108,16 +108,27 @@ A proud milestone for our team as we continue building impactful, scalable ideas
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Top+Global+Kaggle+Contributor;Datasets+Expert+%7C+Top+185+Worldwide;Notebooks+Expert+%7C+Top+642+Worldwide;Building+High+Quality+Datasets+Daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Kaggle+Datasets+Grandmaster;Globally+Ranked+%2335+Worldwide;Notebooks+Expert+%7C+Top+561+Worldwide;5+Gold+Medals+%7C+7+Silver+Medals;Building+High+Quality+Datasets+Daily" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d840a6c-18d3-4795-9acb-fdf9e04e6f7e" width="600"/>
+</p>
 
-📊 Datasets Expert → 🌎 **#75 / 8,733 Worldwide**  
-📓 Notebooks Expert → 🌎 **#642 / 60,130 Worldwide** *(Peak: #621)*
+---
 
-<a href="https://www.kaggle.com/anadiskt">
-<img src="https://img.shields.io/badge/View%20My%20Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+## 📊 Current Rankings
+
+- 📊 **Datasets Expert** → 🌎 **#75 / 8,733 Worldwide**  
+- 📓 **Notebooks Expert** → 🌎 **#642 / 60,130 Worldwide** *(Peak: #621)*  
+
+## 🔗 Explore My Kaggle Profile
+
+<p align="center">
+  <a href="https://www.kaggle.com/anadiskt">
+    <img src="https://img.shields.io/badge/View%20My%20Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
 # 💼 Professional Experience & Internships
 - **Development Internships**: Vexarant · ISA · Helpy Moto  
