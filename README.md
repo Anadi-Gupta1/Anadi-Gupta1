@@ -119,7 +119,7 @@ A proud milestone for our team as we continue building impactful, scalable ideas
 
 ## 📊 Current Rankings
 
-- 📊 **Datasets Expert** → 🌎 **#75 / 8,733 Worldwide**  
+- 📊 **Datasets Expert** → 🌎 **#35 / 8,733 Worldwide**  
 - 📓 **Notebooks Expert** → 🌎 **#642 / 60,130 Worldwide** *(Peak: #621)*  
 
 ## 🔗 Explore My Kaggle Profile
