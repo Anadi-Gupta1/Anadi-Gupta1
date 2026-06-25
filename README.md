@@ -3,7 +3,7 @@
 <h1 align="center">🌟Anadi Gupta — Empowering the Future through AI & Innovation </h1>
 
 <h2 align="center">
-  <b>Kaggle Grandmaster (#34 Worldwide) | Multi-Startup Founder | IIT Bombay Expo Presenter | NASA Security Researcher | NASA & ISRO Certified (4×) | 3× Hackathon Winner | Tech Lead @ E-Cell LNCTS | LNCT Excellence Awardee</b>
+  <b>Kaggle Grandmaster | Multi-Startup Founder | IIT Bombay Expo Presenter | NASA Security Researcher | NASA & ISRO Certified (4×) | 3× Hackathon Winner | Tech Lead @ E-Cell LNCTS | LNCT Excellence Awardee</b>
 </h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
