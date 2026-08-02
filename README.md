@@ -3,7 +3,7 @@
 <h1 align="center">🌟Anadi Gupta — Empowering the Future through AI & Innovation </h1>
 
 <h2 align="center">
-  <b>Kaggle Grandmaster| IIT Bombay Expo Presenter| 3× Hackathon Winner | Tech Lead @ E-Cell LNCTS | LNCT Excellence Awardee</b>
+  <b>AI/ML Engineer | Full Stack Developer | Startup Expo Exhibitor @ IIT Bombay | Navonmesh 2026 1st Runner-Up | MSME 5.0 Finalist | Building DEEPTECH VENTURES & TRENDY</b>
 </h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
@@ -110,32 +110,6 @@ A proud milestone for our team as we continue building impactful, scalable ideas
 ✨ This milestone reflects the vision of building **secure and future-ready technology through QUBES**.
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
-
-# 🚀 Kaggle Achievement
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Kaggle+Datasets+Grandmaster;Globally+Ranked+%2335+Worldwide;Notebooks+Expert+%7C+Top+561+Worldwide;5+Gold+Medals+%7C+7+Silver+Medals;Building+High+Quality+Datasets+Daily" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d840a6c-18d3-4795-9acb-fdf9e04e6f7e" width="600"/>
-</p>
-
----
-
-## 📊 Current Rankings
-
-- 📊 **Datasets GRANDMASTER** → 🌎 **#35 / 8,733 Worldwide**  
-- 📓 **Notebooks Expert** → 🌎 **#642 / 60,130 Worldwide** *(Peak: #621)*  
-
-## 🔗 Explore My Kaggle Profile
-
-<p align="center">
-  <a href="https://www.kaggle.com/anadiskt">
-    <img src="https://img.shields.io/badge/View%20My%20Kaggle%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
 
 # 💼 Professional Experience & Internships
 - **Development Internships**: Vexarant · ISA · Helpy Moto  
