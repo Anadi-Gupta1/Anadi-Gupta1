@@ -3,7 +3,7 @@
 <h1 align="center">🌟Anadi Gupta — Empowering the Future through AI & Innovation </h1>
 
 <h2 align="center">
-  <b>AI/ML Engineer | Full Stack Developer | Startup Expo Exhibitor @ IIT Bombay | Navonmesh 2026 1st Runner-Up | MSME 5.0 Finalist | Building DEEPTECH VENTURES & TRENDY</b>
+  <b>AI Engineer | Full-Stack Software Engineer (Web & Mobile) | Yi Future 6.0 1st Runner-Up | National Stage Qualifier| Startup Expo Exhibitor @ IIT Bombay | Navonmesh 2026 1st Runner-Up | Building DEEPTECH VENTURES & TRENDY</b>
 </h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
