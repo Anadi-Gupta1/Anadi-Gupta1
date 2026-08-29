@@ -20,114 +20,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Campus+Ambassador+at+Techfest+IIT+Bombay;Campus+Ambassador+at+Mood+Indigo;🚀Campus+Ambassador+at+GirlScript+Summer+of+Code;+🎓+Campus+Ambassador+at+Internshala;+E-Cell+Member+at+LNCTS;💻+Freelancer;🌟+Indigo+Squad+Member+at+IIT+Bombay;🛠+GSSoC+Contributor)](https://git.io/typing-svg)
 
 
-# 👋 Hi, I'm **Anadi Gupta**
-
-💻 Software Developer
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-
-
-## 🌌 Highlights — Space, Security & Top Achievements
-## [![Space Portfolio](https://img.shields.io/badge/Visit_Space_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://anadi-space-portfolio.netlify.app/)  
-
-- 🚀 **NASA Citizen Scientist & Security Researcher** contributing to the **NASA Vulnerability Disclosure Program (VDP)**.
-- 🛰️ **NASA Certified (2x) · ISRO Certified (2x)** — recognition for space & research-relevant skills.
-- 🏅 **Multiple top-tier certifications** across industry leaders (Microsoft, Deloitte, Goldman Sachs, Accenture, Flipkart, Nestlé, GitHub Foundations, Coursera).
-- 💼 **Software Developer | Full-Stack | Freelance Solutions Architect** — building real-world products and secure systems.
-
----
-
-### Top Space Technology Certifications 
-
-<table>
-  <tr>
-    <td align="center"><b>AI/ML for Geodata Analysis</b><br><img src="https://github.com/user-attachments/assets/bd94b186-b9fc-4f27-9ead-89fafd89ff61" width="220"></td>
-    <td align="center"><b>Space Technology Workshop</b><br><img src="https://github.com/user-attachments/assets/b55dd670-92ca-48fc-890e-4d21031b5ebc" width="220"></td>
-    <td align="center"><b>NASA Open Science Essentials</b><br><img src="https://github.com/user-attachments/assets/c27f11ac-b17f-470c-ae9d-73dadacf6049" width="220"></td>
-    <td align="center"><b>NASA Open Science 101</b><br><img src="https://github.com/user-attachments/assets/03abf004-58f7-48b1-9435-9b9c9eb3b6a2" width="220"></td>
-  </tr>
-</table>
-
-
-
-# 🚀 Startups & Entrepreneurship
-## 🚀 IIT Bombay Incubation Summit 2025 — TRENDY Shortlisted
-
-**TRENDY has been officially shortlisted for the Incubation Summit 2025 at IIT Bombay**, scheduled for **11th December 2025**.
-
-This selection provides an opportunity to pitch TRENDY in front of **India’s leading incubators and innovation ecosystems**, including **T-Hub, iCreate, NSRCEL, SINE IIT Bombay, AIC-RMP, VentureStudio**, and others.
-
-**This milestone validates TRENDY’s mission in AI, automation, and next-gen product innovation.**
-
----
-
-### 🚀 **TRENDY — Selected for the IIT Bombay Startup Expo (21st E-Summit)**
-<div align="left">
-
-🎉 My startup **TRᴇɴᴅʏ** has been selected to **exhibit at the Startup Expo**  
-during IIT Bombay’s prestigious **21st E-Summit** — a national platform for top emerging startups!
-
-💡 **Why this is big:**  
-- Only a limited number of startups get selected to exhibit  
-- TRᴇɴᴅʏ will be showcased in front of **investors, incubators, corporates, VCs, and startup enthusiasts**  
-- We are officially representing **LNCT** at **IIT Bombay**
-
-🔥 TRᴇɴᴅʏ is now a **national-level recognized startup** with IIT Bombay backing.
-</div>
-
----
-
-### 🏆 **NEC 2025 — FINALIST at IIT Bombay**
-<div align="left">
-
-✨ Our team has officially **qualified for the Final Round** of the  
-**National Entrepreneurship Challenge (NEC) 2025**, organized by **E-Cell, IIT Bombay**!  
-This year, **4000+ colleges** participated — and our team stood out among the best in India.  
-
-📍 **Event:** 21st Edition of E-Summit  
-📅 **Finals Date:** 10th–12th December 2025  
-🎓 **Representing:** LNCTS  
-🔥 **Level:** National Inter-Collegiate Premier Entrepreneurship Challenge
-
-> This is one of the **largest entrepreneurship competitions in India**,  
-> and being selected for the **Grand Finale at IIT Bombay** is a huge honour.
-</div>
-
----
-## 🚀 MSME Hackathon 5.0 Achievement
-
-I am excited to share that our idea has been **selected for the NEXT Stage of MSME Hackathon 5.0**, evaluated at KLIC – LNCT Group Incubation Center. This recognition opens the door to **funding support of up to ₹15 Lakhs** for promising and innovative startup solutions. ✨  
-A proud milestone for our team as we continue building impactful, scalable ideas. 🌟
-  
----
-## 🏆 Achievement
-
-🚀 As the **Founder of QUBES**, I secured **🥈 1st Runner Up** at the **Innovation League (Innomaker: Product Showcase)** during **Navonmesh 2026**, organized by **Scope Global Skills University** in association with **AIC RNTU Foundation**.
-
-🔹 Presented the **QUBES startup** to industry experts and judges  
-🔹 Awarded **₹10,000 prize** for innovation and startup potential  
-🔹 Recognized at **Navonmesh 2026 — Central India’s Biggest Innovation Carnival**
-
-✨ This milestone reflects the vision of building **secure and future-ready technology through QUBES**.
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-
-
-# 💼 Professional Experience & Internships
-- **Development Internships**: Vexarant · ISA · Helpy Moto  
-- **Crowdfunding & Strategy**: GreenBhumi · Bharat Intern · PeerShala
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-
-# 📢 Campus Roles & Community
-- **Technical Lead — E-Cell, LNCTS**  
-  Serving as Technical Lead for E-Cell LNCTS, leading technical initiatives and product/website development.
-- Campus Ambassador & outreach roles: **Techfest IIT Bombay**, **GSSoC**, **PeerHub**, **Internshala**  
-- **IndiGo Squad Member** @ IIT Bombay — ambassador programs & student outreach  
-- Active member: **E-Cell**, **Google Developer Group (GDG)**, **ISA**, **InnovateX**  
-- Currently participating in **NEC @ IIT Bombay**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
-
-
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -204,46 +96,27 @@ A proud milestone for our team as we continue building impactful, scalable ideas
   <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" />
 
   <!-- Web3 -->
-  <img src="https://img.shields.io/badge/Anchor-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=ethereum&logoColor=black" />
-  <img src="https://img.shields.io/badge/Truffle-%23000000.svg?style=for-the-badge&logo=truffle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foundry-%231E1E1E.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
   <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
-  <img src="https://img.shields.io/badge/Binance%20Smart%20Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" />
   <img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-  <img src="https://img.shields.io/badge/The%20Graph-5A0FC8?style=for-the-badge&logo=thegraph&logoColor=white" />
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Alt text" width="1000">
 
-## 📊 GitHub Stats
+### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anadi-Gupta1&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anadi-Gupta1&theme=react&hide_border=false" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Anadi-Gupta1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anadi-Gupta1&layout=compact&theme=tokyonight&hide_border=true&langs_count=100" width="49%" alt="All Languages Used" />
 </p>
-
-## 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=react&hide_border=false&layout=compact&langs_count=30&count_private=true" height="200"/>
-  
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/Anadi-Gupta?theme=dark&font=Karma&ext=heatmap" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/Anadi-Gupta?theme=dark&font=Baloo_2&ext=streak" width="100%" alt="LeetCode Stats & Streak" />
 </p>
-
-
-
-
-## 📈 Contribution Graph
-[![Anadi’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anadi-Gupta1&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
