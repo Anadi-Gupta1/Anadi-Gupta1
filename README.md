@@ -118,14 +118,13 @@ This year, **4000+ colleges** participated — and our team stood out among the 
 
 ---
 
-### 🚀 MSME Hackathon 5.0 Achievement
+### 🏆 MSME Hackathon 5.0 — Finalist
 
-I am excited to share that our idea has been **selected for the NEXT Stage of MSME Hackathon 5.0**, evaluated at KLIC – LNCT Group Incubation Center.
+Proud to share that **our team reached the Final Round of MSME Hackathon 5.0**, with our idea evaluated at **KLIC – LNCT Group Incubation Center**.
 
-This recognition opens the door to **funding support of up to ₹15 Lakhs** for promising and innovative startup solutions. ✨
+Although we did not secure a win, reaching the **finalist stage of a national-level hackathon** was a valuable milestone for our team, providing an opportunity to showcase our innovation, learn, and grow. 🚀
 
-A proud milestone for our team as we continue building impactful, scalable ideas. 🌟
-
+**Grateful for the experience and motivated to keep building impactful, scalable solutions!** ✨
 ---
 
 ### 🏆 Navonmesh 2026 — Innovation League Achievement
@@ -231,15 +230,15 @@ Represented Team ResQNet at the national round of Yi Future 6.0 in Bhavnagar, Gu
 
 ---
 
-## 🌱 Startup & Incubation Milestones
+### 🏆 **Selected for Pitching Round — ₹10 Lakh Grant | MeitY GENESIS EIR-3**
 
-### 🎤 Selected for Pitching Round — GENESIS EIR-3
+**🚀 Startup:** QUBES  
+**🏢 Organization:** Anupam Incubation & Innovation Center (AIIC)  
+**💰 Grant Opportunity:** **₹10,00,000 (₹10 Lakh)**  
+**🇮🇳 Government Initiative:** Ministry of Electronics and Information Technology (**MeitY**) — GENESIS  
+**🏛️ MSME:** Ministry of Micro, Small and Medium Enterprises  
 
-**Startup:** QUBES  
-**Organization:** Anupam Incubation & Innovation Center (AIIC)  
-**Date:** 23 September 2026
-
-Selected for the pitching round under the **GENESIS EIR-3 Selection Committee**. An official pitching slot was allotted from **12:30 PM to 12:45 PM IST** for presenting QUBES.
+Selected for the **GENESIS EIR-3 pitching round** to present **QUBES**, a quantum-resilient cybersecurity startup, for consideration for **₹10 lakh in grant support** to accelerate product development and innovation.
 
 ---
 
