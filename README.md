@@ -494,23 +494,6 @@ Selected for the pitching round under the **GENESIS EIR-3 Selection Committee**.
   <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
 </p>
 
-### ⛓️ Web3, Blockchain & Smart Contracts
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon"/>
-  <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche"/>
-  <img src="https://img.shields.io/badge/Binance_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Smart Chain"/>
-  <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=solana&logoColor=white" alt="Anchor"/>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
-  <img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle"/>
-  <img src="https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge" alt="Foundry"/>
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/>
-  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white" alt="WalletConnect"/>
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
-  <img src="https://img.shields.io/badge/The_Graph-5A0FC8?style=for-the-badge&logo=thegraph&logoColor=white" alt="The Graph"/>
-</p>
 
 ### 🔐 Cybersecurity & Quantum-Safe Cryptography
 
@@ -597,28 +580,6 @@ Selected for the pitching round under the **GENESIS EIR-3 Selection Committee**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi-Gupta1&theme=react&hide_border=true&layout=compact&langs_count=15" height="200" alt="GitHub Top Languages"/>
   <img src="https://leetcard.jacoblin.cool/Anadi-Gupta?theme=dark&font=Karma&ext=heatmap" height="200" alt="Anadi Gupta LeetCode Stats"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/Anadi-Gupta1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anadi-Gupta1&theme=react-dark&hide_border=true&area=true" width="100%" alt="Anadi Gupta GitHub Contribution Graph"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf4d1c14c0247f.gif" width="100%" alt="Animated Divider"/>
-</p>
-
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf4d1c14c0247f.gif" alt="Animated Divider" width="1000">
 </p>
 
 ---
